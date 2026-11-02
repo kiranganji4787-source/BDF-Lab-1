@@ -1,17 +1,17 @@
 # Lab 01: Node.js and Express Server
 
-**Student Name:** Bolla Pradhyumna
-**Registration Number:** 252U1R5027
+**Student Name:** Ganji Kiran Kumar
+**Registration Number:** 252U1R5046
 **Section:** CSE-AIDE-2A
 **Course:** Backend Development Fundamentals
 
 ## Deployment and Repository Links
 
-**Live Application (Render):**  https://pradhyumna-lab-1.onrender.com/
+**Live Application (Render):**  
 
 
 **GitHub Repository:**
-[https://github.com/bollapradhyumna1409-collab/Pradhyumna_Lab_1](https://github.com/bollapradhyumna1409-collab/Pradhyumna_Lab_1)
+https://github.com/kiranganji4787-source/BDF-Lab-1.git
 
 The Express application is developed using Node.js and Express.js. The application contains multiple routes that return text, JSON, date and time information, and a 404 response for undefined routes.
 
